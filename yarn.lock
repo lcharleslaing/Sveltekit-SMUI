@@ -800,6 +800,18 @@
     "@smui/ripple" "^6.0.0-beta.15"
     "svelte2tsx" "^0.4.14"
 
+"@smui/list@^6.0.0-beta.15":
+  "integrity" "sha512-IBMxNitaz+hZWJdp84rkVB3VcAyJoOIsUNJKrgUAAC2N6I6PV2/88HsUf2c7vg1bx6xTWZfpf++qb7Umud99Iw=="
+  "resolved" "https://registry.npmjs.org/@smui/list/-/list-6.0.0-beta.15.tgz"
+  "version" "6.0.0-beta.15"
+  dependencies:
+    "@material/dom" "^13.0.0"
+    "@material/feature-targeting" "^13.0.0"
+    "@material/list" "^13.0.0"
+    "@smui/common" "^6.0.0-beta.15"
+    "@smui/ripple" "^6.0.0-beta.15"
+    "svelte2tsx" "^0.4.14"
+
 "@smui/ripple@^6.0.0-beta.15":
   "integrity" "sha512-f8SUeI8M7vrSGP9wLWq5KP6HsPBElqWoI5jDm6hcIQr0Q9xFRkPn64J4Cfph3EcSNbLGFGO5BLBbaw2lr89plw=="
   "resolved" "https://registry.npmjs.org/@smui/ripple/-/ripple-6.0.0-beta.15.tgz"
