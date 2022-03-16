@@ -1,2 +1,8 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script lang="ts">
+	import Button from '@smui/button';
+</script>
+
+<div class="text-center m-6">
+	<Button color="primary" on:click={() => alert('Whoop Whoop!')}>Click Me!</Button>
+	<Button color="secondary" on:click={() => alert('Whoop Whoop!')}>Click Me!</Button>
+</div>
